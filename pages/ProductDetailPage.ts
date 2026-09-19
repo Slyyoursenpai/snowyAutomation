@@ -1,6 +1,6 @@
 import {Page, Locator, expect} from '@playwright/test';
 
-export class MenuPage{
+export class ProductDetailPage{
 
     detailPageHeader: Locator;
     productName: Locator;
